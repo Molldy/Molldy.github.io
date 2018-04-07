@@ -8,26 +8,27 @@
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description></description>
-    <pubDate>Sat, 07 Apr 2018 08:59:13 GMT</pubDate>
+    <pubDate>Sat, 07 Apr 2018 12:13:28 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
-      <title>Welcome</title>
-      <link>http://Molldy.github.io/2018/04/07/Welcome/</link>
-      <guid>http://Molldy.github.io/2018/04/07/Welcome/</guid>
-      <pubDate>Sat, 07 Apr 2018 08:46:09 GMT</pubDate>
+      <title>test</title>
+      <link>http://Molldy.github.io/2018/04/07/test/</link>
+      <guid>http://Molldy.github.io/2018/04/07/test/</guid>
+      <pubDate>Sat, 07 Apr 2018 12:09:44 GMT</pubDate>
       <description>
       
         
         
-          &lt;h2 id=&quot;Welcome-to-Hou’s-blog&quot;&gt;&lt;a href=&quot;#Welcome-to-Hou’s-blog&quot; class=&quot;headerlink&quot; title=&quot;Welcome to Hou’s blog&quot;&gt;&lt;/a&gt;Welcome to Hou’s blog&lt;/
+          &lt;p&gt;hhhhh&lt;/p&gt;
+
         
       
       </description>
       
-      <content:encoded><![CDATA[<h2 id="Welcome-to-Hou’s-blog"><a href="#Welcome-to-Hou’s-blog" class="headerlink" title="Welcome to Hou’s blog"></a>Welcome to Hou’s blog</h2><p>Hello，我是Molldy Hou，欢迎来到我的博客！</p><p>在这里，我会将我所学习到的知识整理下来。欢迎交流。</p>]]></content:encoded>
+      <content:encoded><![CDATA[<p>hhhhh</p>]]></content:encoded>
       
-      <comments>http://Molldy.github.io/2018/04/07/Welcome/#disqus_thread</comments>
+      <comments>http://Molldy.github.io/2018/04/07/test/#disqus_thread</comments>
     </item>
     
   </channel>
